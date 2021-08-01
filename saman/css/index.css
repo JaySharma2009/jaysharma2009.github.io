@@ -1,0 +1,70 @@
+@font-face {
+  font-family: Varela Round;
+    src: url(../font/VarelaRound-Regular.ttf);
+}
+body {
+    font-family: Varela Round !important;
+    background-color: black;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-x: hidden;
+    color:white
+  }
+
+.bigdiv {
+ font-size: 30px;
+ color:#ff5e5e;
+}
+
+.twitter {
+ font-size: 30px;
+ color:#55acee;
+}
+
+.discord {
+ font-size: 30px;
+ color:#7288db;
+}
+
+.tiktok {
+ font-size: 30px;
+ color:#00d6cf;
+}
+
+jay {
+font-size: 23px;
+color: white;
+font-weight:200;
+}
+
+d {
+color: #9fb2db;
+font-size: 20px;
+text-decoration: none;
+}
+
+c {
+color: #c1f2f2;
+font-size: 20px;
+text-decoration: none;
+}
+
+b {
+color: #abcae5;
+font-size: 20px;
+text-decoration: none;
+}
+
+a {
+color: #eecbcb;
+font-size: 20px;
+text-decoration: none;
+}
+
+img {
+width: 32px;
+height: 32px;
+margin-top:5px;
+margin-left:15px;
+margin-right:10px;
+}
